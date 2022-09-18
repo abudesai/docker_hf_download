@@ -1,3 +1,4 @@
 
-pretrained_model/
+!pretrained_model
+pretrained_model/*
 !pretrained_model/url_list.txt
