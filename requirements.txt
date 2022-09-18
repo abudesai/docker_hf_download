@@ -1,0 +1,5 @@
+torch
+torchtext
+transformers==4.21.1
+datasets==2.4.0
+torchinfo==1.7.0
